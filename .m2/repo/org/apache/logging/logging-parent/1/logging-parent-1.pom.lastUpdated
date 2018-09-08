@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Sep 06 19:59:42 CDT 2018
+https\://nexus.copart.com/repository/releases/.lastUpdated=1536281981909
+c03e50bec4e2248e9e15964463ff5b7917ebf761@default-snapshots-https\://nexus.copart.com/repository/snapshots/.lastUpdated=1536281982207
+https\://repo.maven.apache.org/maven2/.lastUpdated=1536281982257
+https\://nexus.copart.com/repository/releases/.error=
+https\://nexus.copart.com/repository/snapshots/.error=Could not transfer artifact org.apache.logging\:logging-parent\:pom\:1 from/to snapshots (https\://nexus.copart.com/repository/snapshots/)\: Failed to transfer file\: https\://nexus.copart.com/repository/snapshots/org/apache/logging/logging-parent/1/logging-parent-1.pom. Return code is\: 400 , ReasonPhrase\:Repository version policy\: SNAPSHOT does not allow version\: 1.

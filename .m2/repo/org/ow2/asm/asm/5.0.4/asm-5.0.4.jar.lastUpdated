@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Sep 06 20:01:09 CDT 2018
+https\://nexus.copart.com/repository/releases/.lastUpdated=1536282054422
+c03e50bec4e2248e9e15964463ff5b7917ebf761@default-snapshots-https\://nexus.copart.com/repository/snapshots/.lastUpdated=1536282058078
+https\://repo.maven.apache.org/maven2/.lastUpdated=1536282069529
+https\://nexus.copart.com/repository/releases/.error=
+https\://nexus.copart.com/repository/snapshots/.error=Could not transfer artifact org.ow2.asm\:asm\:jar\:5.0.4 from/to snapshots (https\://nexus.copart.com/repository/snapshots/)\: Failed to transfer file\: https\://nexus.copart.com/repository/snapshots/org/ow2/asm/asm/5.0.4/asm-5.0.4.jar. Return code is\: 400 , ReasonPhrase\:Repository version policy\: SNAPSHOT does not allow version\: 5.0.4.

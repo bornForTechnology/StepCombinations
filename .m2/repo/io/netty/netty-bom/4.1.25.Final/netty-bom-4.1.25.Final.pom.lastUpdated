@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Sep 06 19:59:39 CDT 2018
+https\://nexus.copart.com/repository/releases/.lastUpdated=1536281979514
+c03e50bec4e2248e9e15964463ff5b7917ebf761@default-snapshots-https\://nexus.copart.com/repository/snapshots/.lastUpdated=1536281979825
+https\://repo.maven.apache.org/maven2/.lastUpdated=1536281979888
+https\://nexus.copart.com/repository/releases/.error=
+https\://nexus.copart.com/repository/snapshots/.error=Could not transfer artifact io.netty\:netty-bom\:pom\:4.1.25.Final from/to snapshots (https\://nexus.copart.com/repository/snapshots/)\: Failed to transfer file\: https\://nexus.copart.com/repository/snapshots/io/netty/netty-bom/4.1.25.Final/netty-bom-4.1.25.Final.pom. Return code is\: 400 , ReasonPhrase\:Repository version policy\: SNAPSHOT does not allow version\: 4.1.25.Final.
